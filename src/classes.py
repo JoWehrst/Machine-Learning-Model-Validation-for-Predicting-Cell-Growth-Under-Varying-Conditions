@@ -89,8 +89,8 @@ class CellGrowthModel:
             random_state=0
         )
 
-        self.fig_width = 14.39 / 2.54
-        self.fig_height = 10.24 / 2.54
+        self.fig_width = 10 / 2
+        self.fig_height = 8 / 2
         self.fontsize_xy_label = 14
         self.fontsize_ticks = 12
         self.fontsize_legend = 8
