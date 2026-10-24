@@ -1,0 +1,6 @@
+Rank,Model,Degree / k,Mean Validation RMSE,Test RMSE
+3,Polynomial,3,0.159756,0.154583
+5,Polynomial,2,0.156203,0.155552
+7,Polynomial,4,0.224133,0.157897
+9,Polynomial,1,0.177407,0.186843
+10,Polynomial,5,0.622582,0.389062

@@ -1,0 +1,19 @@
+Rank,Weighting Method,k,Mean Validation RMSE
+1,distance,6,0.152733
+2,uniform,6,0.153196
+3,distance,10,0.153201
+4,distance,8,0.153392
+5,uniform,8,0.154491
+6,uniform,10,0.154771
+7,distance,16,0.155172
+8,uniform,16,0.158044
+9,distance,32,0.158147
+10,distance,4,0.158744
+11,distance,3,0.159441
+12,uniform,3,0.160323
+13,uniform,4,0.160585
+14,uniform,32,0.161247
+15,distance,2,0.168342
+16,uniform,2,0.168634
+17,uniform,1,0.194558
+18,distance,1,0.194558

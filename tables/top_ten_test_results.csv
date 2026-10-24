@@ -1,0 +1,11 @@
+Rank,Model,Degree / k,Mean Validation RMSE,Test RMSE
+1,KNN(distance),10,0.153201,0.15288
+2,KNN(distance),8,0.153392,0.153187
+3,Polynomial,3,0.159756,0.154583
+4,KNN(uniform),8,0.154491,0.154586
+5,Polynomial,2,0.156203,0.155552
+6,KNN(distance),6,0.152733,0.155751
+7,Polynomial,4,0.224133,0.157897
+8,KNN(uniform),6,0.153196,0.158291
+9,Polynomial,1,0.177407,0.186843
+10,Polynomial,5,0.622582,0.389062
